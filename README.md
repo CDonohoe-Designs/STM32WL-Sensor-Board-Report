@@ -30,21 +30,6 @@ This project features a compact and versatile sensor board based on the **STM32W
 
 ---
 
-## 📁 Folder Structure
-
-```
-STM32WL-Sensor-Board-Report/
-├── Firmware/                 # STM32CubeIDE or PlatformIO firmware
-├── Hardware/                 # Altium schematics, layout, BOM
-├── LTSpice_Simulations/      # AFE filter and analog chain simulations
-├── Docs/                     # Project report, filter calculations
-├── Images/                   # Plots, PCB renders, block diagrams
-├── README.md
-└── LICENSE
-```
-
----
-
 ## 📊 Simulation & Validation
 
 - **LTSpice**: 3rd-order LPF (RC + Sallen-Key) simulated for frequency and time-domain behavior
