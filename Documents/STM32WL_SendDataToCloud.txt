@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=xwhwI3P_Xro&list=PLUTly7gBTFvUR5EuDauE-oRrnKpY6oHTM&ab_channel=TrueStepbyStep
+
+
+Complete software guide to sending data to the cloud using STM32WL nucleo dev board via a gateway and LORIOT middleware 

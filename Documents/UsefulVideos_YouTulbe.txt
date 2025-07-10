@@ -1,0 +1,8 @@
+
+TI Precision Labs - ADCs: Aliasing and Anti-aliasing Filters:  Considerations
+https://www.youtube.com/watch?v=T4M6xN-LMWw&list=RDCMUC-EXTfLnOmCKVRJrv8xoGrQ&start_radio=1&t=334s&ab_channel=TexasInstruments
+
+
+TI Precision Labs - ADCs: Introduction to SAR ADC Front-End Component Selection
+
+https://www.youtube.com/watch?v=DmuaLPJW4_0&list=RDCMUC-EXTfLnOmCKVRJrv8xoGrQ&start_radio=1&t=22s&ab_channel=TexasInstruments

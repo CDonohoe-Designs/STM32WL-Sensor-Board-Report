@@ -1,0 +1,15 @@
+LTspice 24.1.4 for Windows
+Circuit: G:\My Drive\CV_Projects_Porfolio_2025\STM32_LoRa_Sensor_ADC\STM32WL-Sensor-Board-Report\Simulation\LTSpice_Analysis\LTspice_Sallen_Key_Diff_Output.net
+Start Time: Thu Jul 10 15:43:01 2025
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.933 seconds.
+
+Files loaded:
+G:\My Drive\CV_Projects_Porfolio_2025\STM32_LoRa_Sensor_ADC\STM32WL-Sensor-Board-Report\Simulation\LTSpice_Analysis\LTspice_Sallen_Key_Diff_Output.net
+C:\Users\caoil\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
