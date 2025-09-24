@@ -1,7 +1,6 @@
 ---
-title: "[]{#_heading=h.gd7cryi9nvie .anchor}**Introduction : Versatile
-  Sensor Board Design with STM32WL, Analog Front-End, LoRa Wireless, and
-  External SMA Sensor Connector**"
+Versatile Sensor Board Design with STM32WL, Analog Front-End, LoRa Wireless, and
+  External SMA Sensor Connector
 ---
 
 **By: Caoilte Donohoe**
