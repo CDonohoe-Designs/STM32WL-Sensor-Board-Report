@@ -1,11 +1,11 @@
 
-# 📊 Simulation – STM32WL Sensor Node
+# Simulation – STM32WL Sensor Node
 
 This folder contains LTspice simulations supporting the analog front-end design of the STM32WL-based sensor platform. The simulations focus on signal integrity, anti-aliasing filter behavior, and front-end signal conditioning before digitization via the STM32 ADC.
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 - **LTspice XVII** or later
 - Optional: Analog Devices SPICE models (e.g., ADA4898-1, AD8138, ADA4932) from:
@@ -13,7 +13,7 @@ This folder contains LTspice simulations supporting the analog front-end design 
 
 ---
 
-## 📂 Files Overview
+## Files Overview
 
 | File | Description |
 |------|-------------|
@@ -23,25 +23,25 @@ This folder contains LTspice simulations supporting the analog front-end design 
 
 ---
 
-## 🧪 Simulation Use Cases
+## Simulation Use Cases
 
-### 🔷 Bode Plot (AC Analysis)
+### Bode Plot (AC Analysis)
 - Goal: Verify anti-aliasing filter design for ~25 kHz cutoff
 - Visualize gain and phase roll-off
 - Confirm filter order and Q factor
 
-### 🔷 Time-Domain Analysis
+### Time-Domain Analysis
 - Model a Gaussian or pulsed excitation applied to piezo sensor
 - Analyze signal propagation through matching network → LNA input → amplified output
 - Measure ringing, overshoot, settling time
 
-### 🔷 FFT Analysis
+### FFT Analysis
 - Run `.tran` with `Fourier` or export raw data to post-process in Python
 - Confirm signal band-limiting matches expected LoRa/ADC bandwidth
 
 ---
 
-## 🖼 Sample Plots (suggested to add)
+## Sample Plots (suggested to add)
 
 Add waveform images or Bode plots here:
 
@@ -51,7 +51,7 @@ Add waveform images or Bode plots here:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open `.asc` file in LTspice
 2. Click **Simulate → Run**
@@ -62,8 +62,3 @@ Add waveform images or Bode plots here:
 
 ---
 
-## ✅ To-Do / Suggestions
-
-- [ ] Include op-amp `.sub` models (or behavioral model blocks)
-- [ ] Annotate waveforms in screenshots
-- [ ] Link results to report section (e.g., Section 3.2.1 of PDF)
